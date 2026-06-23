@@ -1,3 +1,3 @@
 #chai aur backend series 
 
-this is a videp series on backend with javascript  
+this is a  backend with javascript  
